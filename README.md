@@ -1,4 +1,6 @@
 # Sentiment Analysis using LSTM model with Scikit-learn and Keras
+The notebook is also available at as a [kaggle kernal](https://www.kaggle.com/sanjay11100/lstm-sentiment-analysis-data-imbalance-keras)
+try it out there with free gpu and hastle free python environment.
 ## **Dataset**
 First GOP Debate Twitter Sentiment
 About this Dataset
