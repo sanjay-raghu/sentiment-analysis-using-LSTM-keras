@@ -9,3 +9,13 @@ We looked through tens of thousands of tweets about the early August GOP debate 
 sentiment analysis and data categorization. Contributors were asked if the tweet was relevant, which candidate was mentioned,
 what subject was mentioned, and then what the sentiment was for a given tweet. We've removed the non-relevant messages from
 the uploaded dataset.
+
+## **Details about model**
+
+ - model contains 3 layers (Embedding, LSTM, Dense with softmax).
+ - Upsampling is used to balance the data of minority class.
+ - Loss fuction with different class weight in keras to further reduce class imbalance.
+
+## To Do 
+- Add requirement.txt
+- Add bash script to install required packages 
