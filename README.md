@@ -1,4 +1,4 @@
-# Sentiment Analysis using LSTM model with scikitlearn and keras
+# Sentiment Analysis using LSTM model with Scikit-learn and Keras
 ## **Dataset**
 First GOP Debate Twitter Sentiment
 About this Dataset
